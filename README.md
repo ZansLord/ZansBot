@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest?cb=20170628120149?format=jpg&name=900x900" alt="𝐒𝐈𝐁𝐔" width="170" />
+<img src="https://github.com/ZansLord/ZansBot/blob/main/Sibu.jpg" alt="ZANS" width="170" />
 
-## 𝐒𝐈𝐁𝐔 𝐁𝐎𝐓
+## 𝗭𝗮𝗻𝘀 𝗕𝗼𝘁
 
 </div>
 
@@ -9,16 +9,16 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Sibuuu07"><img title="Author" src="https://img.shields.io/badge/Author-𝐒𝐈𝐁𝐔-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ZansLord"><img title="Author" src="https://img.shields.io/badge/Author-𝐒𝐈𝐁𝐔-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="𝐒𝐈𝐁𝐔" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="𝗭𝗮𝗻𝘀" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZansLord/ZansBot/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -38,13 +38,13 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Sibuuu07/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/ZansLord/ZansBot/blob/master/session.json#L1)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/Sibuuu07/DogeBot.git
-🦄 cd DogeBot
+🦄 git clone https://github.com/ZansLord/ZansBot.git
+🦄 cd ZansBot
 🦄 npm start
 ```
 ## For Termux
@@ -59,8 +59,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/Sibuuu07/DogeBot
-🦄 cd DogeBot
+🦄 git clone https://github.com/ZansLord/ZansBot
+🦄 cd ZansBot
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
