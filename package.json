@@ -1,7 +1,7 @@
 {
   "name": "Zans-Bot",
   "version": "1.0.0",
-  "description": "TOD",
+  "description": "Puja Paha Sibu",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -58,15 +58,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yogipw/Self-Bot.git"
+    "url": "git+https://github.com/ZansLord/ZansBot.git"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "WKWK",
+  "author": "ZANS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz"
+    "url": "https://github.com/ZansLord"
   },
-  "homepage": "https://github.com/Hexagonz"
+  "homepage": "https://github.com/ZansLord"
 }
