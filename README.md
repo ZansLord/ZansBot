@@ -9,7 +9,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ZansLord"><img title="Author" src="https://img.shields.io/badge/Author-𝐒𝐈𝐁𝐔-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ZansLord"><img title="Author" src="https://img.shields.io/badge/Author-ZANS-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="𝗭𝗮𝗻𝘀" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
@@ -71,15 +71,15 @@ heroku/nodejs
 ## Connect With Me
 MY BOT NUMBER👇
 <p align="center">
- <a href="https://wa.me/+994407325171?text=.help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/14157667384?text=.help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+919337956084?text=Hi%20Sibu"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/6285869074622?text=Hi%20Sibu"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 <p align="center">
- <a href="https://wa.me/+16149448340?text=Hy%20Buddy"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/6285869074622?text=Hy%20Buddy"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
@@ -87,8 +87,7 @@ My Whatsapp Group👇
  <a href="https://chat.whatsapp.com/"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`]()
-
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/Sibuuu07)
+* [`AbdulTod`](https://github.com/ZansLord)
