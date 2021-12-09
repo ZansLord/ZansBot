@@ -16,6 +16,8 @@
 </p>
 
 
+![My card name](https://cardivo.vercel.app/api?name=ZansLord&description=DOOOR,%20WELCOME%20TO%20github%20ZansLord%20&image=https://avatars.githubusercontent.com/u/90433321?v=4&backgroundColor=%23ecf0f1&instagram=abdulmalik_4342&github=ZansLord&pattern=leaf&colorPattern=%23eaeaea)
+
 
 ## Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZansLord/ZansBot/)
