@@ -68,6 +68,15 @@ heroku/nodejs
 🦄 scan qr code within 15seconds
 ```
 
+## Error In npm install ?
+```
+🗿npm cache verify
+🗿npm install -g create-react-app
+🗿npm config set package-lock false
+🗿npm install
+🗿npm start
+```
+
 ## Connect With Me
 MY BOT NUMBER👇
 <p align="center">
