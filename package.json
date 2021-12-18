@@ -1,43 +1,13 @@
-  {
-  "name": "ZansBot",
-  "version": "0.9.8",
-  "description": "Customizable WhatsApp Bot",
-  "depecrated": false,
+{
+  "name": "ZANSXDOGE-Bot",
+  "version": "1.0.0",
+  "description": "WhatsappBot",
   "main": "main.js",
   "directories": {
-    "lib": "lib",
+    "lib": "lib"
   },
-  "engines": {
-    "node": "14.x",
-    "npm": "6.x"
-  },
-  "scripts": {
-    "start": "node main.js",
-    "test":   "test": "echo \"Error: no test specified\" && exit 1",
-  },
-  "keywords": [
-    "termux-whatsapp-bot",
-    "whatsapp-bot",
-    "whatsapp",
-    "js-whatsapp",
-    "whatsapp",
-    "Zans-wabot",
-    "wabot-aq"
-  ],
-  "homepage": "https://github.com/ZansLord/ZansBot",
-  "author": {
-    "name": "ZansLord"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ZansLord/ZansBot.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ZansLord/ZansBot/issues"
-  },
-  "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "^3.5.0",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.48.0",
     "axios": "^0.21.1",
@@ -81,5 +51,22 @@
     "spinnies": "^0.5.1",
     "tod-api": "^1.0.5",
     "yt-search": "^2.7.6"
-  }
+  },
+  "scripts": {
+    "start": "node main",
+    "test": "supervisor main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZansLord/ZansBot.git"
+  },
+  "keywords": [
+    "Wasu"
+  ],
+  "author": "ZansLord",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZansLord"
+  },
+  "homepage": "https://github.com/ZansLord"
 }
